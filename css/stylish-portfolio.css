@@ -34,16 +34,22 @@ body {
 
 h1,
 h2,
-h4,
 h5,
 h6 {
   font-family: 'Sansational Sans W00';
   font-weight: 500;
+  letter-spacing: 0.1rem;
 }
 
 h3 {
   font-family: 'Proxima Nova W01';
   font-weight: 700;
+}
+
+h4 {
+  font-family: 'Proxima Nova W01';
+  font-weight: 300;
+  text-transform: uppercase;
 }
 
 .text-faded {
@@ -127,6 +133,18 @@ h3 {
 
 #about h2 {
   font-size: 3rem;
+}
+
+#projects a {
+  font-size: 1.3rem;
+  font-weight: 600;
+  transition: color 0.3s;
+}
+
+#projects a:hover {
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  transition: color 0.35s;
 }
 
 /* Side Menu */

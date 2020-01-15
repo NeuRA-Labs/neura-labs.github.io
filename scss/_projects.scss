@@ -1,0 +1,12 @@
+#projects {
+  a {
+    font-size: 1.3rem;
+    font-weight: 600;
+    transition: color 0.3s;
+    &:hover {
+      color: fade_out(white, 0.5);
+      text-decoration: none;
+      transition: color 0.35s;
+    }
+  }
+}
