@@ -12,17 +12,18 @@
   background-size: cover;
   h1 {
     color: white;
-    font-size: 4rem;
+    font-size: 6rem;
     margin: 0;
     padding: 0;
   }
   h3 {
     color: white;
+    font-weight: 300;
   }
   @media (min-width: 992px) {
     height: 100vh;
     h1 {
-      font-size: 5.5rem;
+      font-size: 8rem;
     }
   }
 }

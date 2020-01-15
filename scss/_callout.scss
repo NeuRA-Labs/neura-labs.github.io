@@ -1,14 +1,26 @@
 // Callout
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, fade-out($white, 0.9) 0%, fade-out($white, 0.9) 100%), url('../img/bg-callout.jpg');
+  background: linear-gradient(90deg, fade-out($white, 0.9) 0%, fade-out($white, 0.9) 100%), url('../img/neura-at-night.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   h2 {
+    color: white;
     font-size: 3.5rem;
     font-weight: 700;
     display: block;
     max-width: 30rem;
+  }
+  a {
+    color: white;
+    font-size: 1.2rem;
+    line-height: 2.15rem;
+    &:hover {
+      color: #9fcdff;
+      font-weight: 600;
+      text-decoration: none;
+      transition: font-weight 0.3s;
+    }
   }
 }

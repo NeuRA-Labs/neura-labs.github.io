@@ -9,5 +9,10 @@
 
 // Font Mixins
 @mixin body-font {
-  font-family: 'Source Sans Pro';
+  font-family:'Proxima Nova W01';
+
+}
+
+@mixin header-font {
+  font-family:'Sansational Sans W00';
 }
