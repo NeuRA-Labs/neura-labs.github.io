@@ -1,6 +1,6 @@
 /*!
- * Start Bootstrap - Stylish Portfolio v5.0.7 (https://startbootstrap.com/template-overviews/stylish-portfolio)
- * Copyright 2019-2020 Start Bootstrap
+ * Start Bootstrap - NeuRA Labs v5.0.7 (https://neura-labs.github.io)
+ * Copyright 2019-2020 NeuRA IT
  * Licensed under MIT (https://opensource.org/licenses/MIT)
  */
 

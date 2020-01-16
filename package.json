@@ -1,11 +1,11 @@
 {
-    "title": "Stylish Portfolio",
-    "name": "startbootstrap-stylish-portfolio",
+    "title": "NeuRA Labs",
+    "name": "neura-labs",
     "version": "5.0.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A stylish portfolio HTML template built with Bootstrap",
+    "description": "The single page Github site for NeuRA",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/stylish-portfolio",
+    "homepage": "https://neura-labs.github.io",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/NeuRA-Labs/neura-labs.github.io/issues",
+        "email": "neuralabs@neura.edu.au"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "NeuRA IT",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Michael Cartwright (https://neura.edu.au)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git"
+        "url": "https://github.com/NeuRA-Labs/neura-labs.github.io.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
