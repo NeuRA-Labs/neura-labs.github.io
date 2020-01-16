@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Stylish Portfolio Preview](img/screenshot.png)](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
+[![Stylish Portfolio Preview](img/screenshot.png)](https://neura-labs.github.io)
 
 **[View Live Preview](https://neura-labs.github.io)**
 
@@ -12,10 +12,14 @@
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/stylish-portfolio/)
-* Install via npm: `npm i startbootstrap-stylish-portfolio`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio)
+* [Download the latest release of NeuRA Labs](https://github.com/NeuRA-Labs/neura-labs.github.io/archive/master.zip)
+* Unzip neura-labs.github.io-master.zip
+* Install via npm: `npm i neura-labs.github.io-master`
+
+  -- or --
+
+* Clone the repo: `git clone https://github.com/NeuRA-Labs/neura-labs.github.io.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/NeuRA-Labs/neura-labs.github.io)
 
 ## Usage
 
@@ -43,7 +47,7 @@ You must have npm installed globally in order to use this build environment.
 
 ## Copyright and License
 
-opyright (c) 2019 NeuRA IT. The project is available as open source under the terms of the 
+Copyright (c) 2019 NeuRA IT. The project is available as open source under the terms of the 
 [MIT License](https://opensource.org/licenses/MIT). See the [license](LICENSE.txt) for further details.
 
 ## Code of Conduct
